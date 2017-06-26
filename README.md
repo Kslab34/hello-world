@@ -1,2 +1,2 @@
 # hello-world
-description goes here
+I am Kelby the CS major.
